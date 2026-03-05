@@ -3,6 +3,7 @@
 TiendaPlus es una tienda web desarrollada como proyecto académico para simular una tienda de moda en línea con sistema completo de usuarios y panel administrativo.
 
 ## 🚀 Funcionalidades
+
 - 👗 Catálogo de productos dinámico
 - 🛒 Carrito de compras funcional
 - 💳 Checkout con registro de pedidos
@@ -14,3 +15,16 @@ TiendaPlus es una tienda web desarrollada como proyecto académico para simular 
   - Pedidos
   - Detalle de pedidos
   - Carrito
+
+## ⚙️ Tecnologías usadas
+
+- PHP
+- MySQL
+- XAMPP
+- HTML5
+- CSS3
+
+## 👩‍💻 Autora
+
+Bleidis Dev  
+Proyecto académico SENA – 2026
