@@ -8,6 +8,7 @@ TiendaPlus es una tienda web desarrollada como proyecto académico para simular 
 - 🛒 Carrito de compras funcional
 - 💳 Checkout con registro de pedidos
 - 👤 Registro e inicio de sesión
+- ⭐ Sistema de reseñas por producto
 - 🛠️ Panel administrativo con gestión de:
   - Usuarios
   - Productos
@@ -15,6 +16,7 @@ TiendaPlus es una tienda web desarrollada como proyecto académico para simular 
   - Pedidos
   - Detalle de pedidos
   - Carrito
+  - Reseñas
 
 ## ⚙️ Tecnologías usadas
 
